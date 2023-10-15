@@ -19,7 +19,7 @@ A Desktop Environment (DE) is your gateway to the Linux world. It encompasses th
 - **Xfce**: A lightweight, efficient DE that's perfect for older hardware.
 
 Changing your DE can provide an entirely new look and feel to your Linux system. Experiment with different DEs to find the one that resonates with you.
-Check out this YouTube video by **ChrisTitusTech* named [Desktop Environment | Linux Basics for New Users](https://youtu.be/2sBsxrWD9to?si=LU3-QTVe8YsY77LM) for better understanding.
+Check out this YouTube video by *ChrisTitusTech* named [Desktop Environment | Linux Basics for New Users](https://youtu.be/2sBsxrWD9to?si=LU3-QTVe8YsY77LM) for better understanding.
 
 ## **3. Running Windows Applications on Linux**
 
