@@ -31,7 +31,7 @@ Remember that the "bleeding edge" refers to software or technology that's at the
 
 Your choice of a Linux distribution depends on your specific needs and preferences. If you value stability and reliability, Debian-based distributions like Ubuntu and Linux Mint are excellent. If you prefer a balance between stability and newer features, consider Red Hat-based distributions like Fedora. For those who want the latest and are comfortable with potential instability, Arch-based distributions like Manjaro are a great choice.
 
-For more in-depth guidance and further insights into choosing the right Linux distribution, you can watch the YouTube video by **ChrisTitusTech** named [Choosing the Right Linux Distro](https://youtu.be/dL05DoJ0qsQ?si=14C8PDJscZp3lM6Z).
+For more in-depth guidance and further insights into choosing the right Linux distribution, you can watch the YouTube video by **ChrisTitusTech** named [Choosing the Right Linux Distro](https://youtu.be/dL05DoJ0qsQ?si=14C8PDJscZp3lM6Z) or by **Luke Smith** named [How to choose a Linux distro: Stop Thinking!](https://youtu.be/3zpgQpdy_fI?si=Oo5KgmNB3wkZum0f).
 
 Select the distribution that aligns best with your requirements and enjoy your Linux journey!
 
